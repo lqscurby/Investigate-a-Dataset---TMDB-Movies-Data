@@ -1,11 +1,12 @@
 # Investigate-a-Dataset-TMDB-Movies-Data
 This project is part of Udacity Data Analyst Nanodegree Program.
 
-Overview:
+# Overview:
 
 In this project we are using TMDB movies data to analyze dataset and communicate findings about it. To complete this project in easier way to write data analysis code, we will use Python libraries Numpy, pandas, Matplotlib, and seaborn. 
 
-Research question that can analyzed from this data set: 
+
+# Research question that can analyzed from this data set: 
 
 What is the profit for each movie?
 
